@@ -1,1 +1,1 @@
-# linkedbot
+# LinkedBot
